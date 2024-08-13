@@ -1,0 +1,24 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+https://demowebshop.tricentis.com/login,10,4062,1844,8919,1754.73,10.000%,.08332,42.47,0.78,521921.1
+https://demowebshop.tricentis.com/cart,9,4344,2270,6618,1346.04,0.000%,.10010,52.62,0.95,538315.0
+https://demowebshop.tricentis.com/checkout/OpcSaveBilling/,9,275,255,325,19.06,0.000%,.10772,0.04,0.12,415.0
+https://demowebshop.tricentis.com/checkout/OpcSaveShipping/,9,306,251,470,83.92,0.000%,.10775,0.04,0.12,415.0
+https://demowebshop.tricentis.com/checkout/OpcSaveShippingMethod/,9,330,250,523,86.36,0.000%,.10774,0.04,0.08,415.0
+https://demowebshop.tricentis.com/checkout/OpcSavePaymentMethod/,9,276,258,341,25.03,0.000%,.10808,0.04,0.08,415.0
+https://demowebshop.tricentis.com/checkout/OpcSavePaymentInfo/,9,294,256,461,59.96,0.000%,.10812,0.04,0.08,415.0
+https://demowebshop.tricentis.com/checkout/OpcConfirmOrder/,9,309,261,510,75.81,0.000%,.10817,0.04,0.08,415.0
+https://demowebshop.tricentis.com/books,16,5221,1387,24357,5216.23,12.500%,.17063,54.74,2.48,328523.5
+https://demowebshop.tricentis.com/checkout/completed/,8,4946,3443,8924,1986.41,0.000%,.09090,52.80,1.80,594797.0
+https://demowebshop.tricentis.com/fiction,7,3887,2131,10804,2839.85,0.000%,.08093,9.16,1.59,115898.0
+https://demowebshop.tricentis.com/addproducttocart/details/45/1,6,340,308,421,37.77,0.000%,.13176,0.32,0.10,2455.0
+Open menu and add product to cart,6,7434,6050,9605,1207.12,0.000%,.06978,47.19,2.40,692517.0
+https://demowebshop.tricentis.com/computers,7,3548,2273,6419,1325.41,0.000%,.08727,3.37,1.13,39581.0
+https://demowebshop.tricentis.com/electronics,5,2207,1684,3072,475.97,0.000%,.11844,5.13,1.44,44352.0
+https://demowebshop.tricentis.com/apparel-shoes,5,3115,2938,3380,154.15,0.000%,.11478,7.07,1.94,63073.0
+https://demowebshop.tricentis.com/digital-downloads,5,2471,1547,3303,767.78,0.000%,.12064,13.34,1.56,113236.0
+https://demowebshop.tricentis.com/jewelry,5,2560,1837,3843,713.78,0.000%,.12249,5.57,1.78,46563.0
+https://demowebshop.tricentis.com/,4,8155,2910,21028,7520.13,25.000%,.09756,2.82,1.46,29548.5
+Open shopping cart and checkout,7,15302,7455,33690,7910.44,14.286%,.05930,66.74,2.55,1152486.9
+https://demowebshop.tricentis.com/gift-cards,5,3841,2174,5879,1186.03,0.000%,.12090,4.97,1.66,42132.0
+Login and browse product,5,23717,19099,26555,2712.12,0.000%,.04500,41.63,4.86,947397.0
+TOTAL,164,3944,250,33690,5619.97,3.049%,1.32172,313.47,18.60,242858.3
